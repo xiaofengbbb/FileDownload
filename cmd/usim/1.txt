@@ -1,0 +1,4 @@
+{"level":"info","ts":"2021-12-20T16:23:38.698+0800","caller":"usim/main.go:26","msg":"file download is begining"}
+{"level":"info","ts":"2021-12-20T16:23:38.717+0800","caller":"File/download.go:64","msg":"Downloading the file is begining","fileurl":"https://ocs-cn-south1.heytapcs.com/gameunion-authentication/20211219/4472813e3cd2451fb8bc87ea897bcaf4"}
+{"level":"info","ts":"2021-12-20T16:24:36.234+0800","caller":"usim/main.go:26","msg":"file download is begining"}
+{"level":"info","ts":"2021-12-20T16:24:36.254+0800","caller":"File/download.go:64","msg":"Downloading the file is begining","fileurl":"https://ocs-cn-south1.heytapcs.com/gameunion-authentication/20211219/4472813e3cd2451fb8bc87ea897bcaf4"}
